@@ -52,7 +52,7 @@ It helps retailers understand different types of customers based on their **Annu
 ## ▶️ Run Instructions
 
 1. Clone repo  
-   `git clone https://github.com/your-username/your-repo-name.git`
+   `git clone [https://github.com/lavishsingh12/PRODIGY_ML_02.git]`
 2. Run the notebook file  
    `kmeans_customer_segmentation.ipynb`
 
